@@ -153,9 +153,12 @@ html,body{
 footer{
     width: 100%;
     height: 70px;
-    background-color: tomato;
+    background-color: rgb(91, 144, 241);
     display: flex;
     justify-content: center;
     align-items: center;
     color: rgb(0, 0, 0);
+}
+footer:hover{
+    background-color: tomato;
 }
